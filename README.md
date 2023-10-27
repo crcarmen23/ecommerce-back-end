@@ -17,7 +17,7 @@ This can be used to
 [Link to Video with Employee Tracker Walk-through]()
 
 
-![screenshot]()
+![screenshot](./screenshot.jpg)
 
 
 ## Credits
