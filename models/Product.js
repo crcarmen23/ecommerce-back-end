@@ -31,9 +31,9 @@ Product.init(
       validate: { isNumeric: true }
     },
     category_id: {
-      types: DataTypes.INTEGER,
+      type: DataTypes.INTEGER,
       references: {
-        model: "Category",
+        model: "category",
         key: "id"
       }
     }
