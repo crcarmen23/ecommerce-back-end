@@ -14,7 +14,7 @@ N/A
 
 This can be used to 
 
-[Link to Video with Employee Tracker Walk-through]()
+[Link to Video with Employee Tracker Walk-through](https://youtu.be/YR0U6TN8V4Q?si=j-7KSoIL1j7ZkApT)
 
 
 ![screenshot](./screenshot.jpg)
